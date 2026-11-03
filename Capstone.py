@@ -66,7 +66,7 @@ plt.show()
 sns.countplot(data=df, x='sex', hue='species')
 plt.show()
 
-sns.countplot(data=df, x='island'm hie='species')
+sns.countplot(data=df, x='island', hue='species')
 plt.show()
 
 sns.countplot(data=df,x ='island', hue='sex')
